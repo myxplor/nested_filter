@@ -10,6 +10,13 @@
 [![GitHub stars](https://img.shields.io/github/stars/treble37/nested_filter.svg)](https://github.com/treble37/nested_filter/stargazers)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/treble37/nested_filter/master/LICENSE)
 
+
+# Forked from "treble37/nested_filter"
+
+Made a small change to allow it to handle structs.
+
+May need to rebase at a later date
+
 ## The Problem
 
 You have a nested map (or a struct that you converted to a nested map) and you want to remove ALL the keys with specific values such as nil.
